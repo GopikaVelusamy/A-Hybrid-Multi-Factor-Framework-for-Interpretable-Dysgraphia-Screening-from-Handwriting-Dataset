@@ -1,0 +1,2 @@
+# A-Hybrid-Multi-Factor-Framework-for-Interpretable-Dysgraphia-Screening-from-Handwriting-Dataset
+Dysgraphia diagnosis relies on clinical observation or deep learning. Our Hybrid Multi-Factor Framework combines both via script segmentation, CNN character analysis, document-level geometric analysis, and a decision tree. Overcoming a CNN-only failure rate of 37.1%, this hybrid model achieves 95.0% accuracy and 97.2% precision on handwriting data.
