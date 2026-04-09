@@ -9,7 +9,10 @@ Deep learning (character-level CNN) for morphological analysis
 Geometric feature extraction for motor stability assessment
 A clinically-inspired decision logic (Steady Hand Safety Net) to suppress false positives
 
+
 # System Architecture
+
+```
 Input Handwriting Image
         │
         ▼
@@ -37,6 +40,8 @@ Module    Module
 └──────────────────────────┘
        ▼
 Final Diagnosis: Normal / Dysgraphia + Confidence Score
+```
+
 
 # Key Components
 
@@ -82,7 +87,6 @@ The framework provides a human-readable explanation for every diagnosis:
 This mimics clinical reasoning: distinguishing **motor dysfunction** from **aesthetic messiness**.
 
 ---
-
 
 
 
