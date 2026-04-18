@@ -75,7 +75,7 @@ A non-linear decision tree that dynamically adjusts diagnostic sensitivity:
 - 📊 [Normal and Dysgraphia Character Level Dataset](https://www.kaggle.com/datasets/vibhushanabaskar/normal-dysgraphia-character)
 - 📊 [Normal and Dysgraphia Sentence Level Dataset](https://www.kaggle.com/datasets/vibhushanabaskar/normal-dysgraphia-sentence)
 
----
+
 
 ## 🔬 Explainability
 
@@ -86,7 +86,7 @@ The framework provides a human-readable explanation for every diagnosis:
 
 This mimics clinical reasoning: distinguishing **motor dysfunction** from **aesthetic messiness**.
 
----
+
 
 
 
